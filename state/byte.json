@@ -1,9 +1,9 @@
 {
   "name": "Byte",
-  "happiness": 67,
+  "happiness": 70,
   "energy": 100,
-  "hunger": 51,
-  "xp": 4,
+  "hunger": 26,
+  "xp": 9,
   "level": 1,
   "mood": "celebrating",
   "moodUntil": "2026-11-15T10:25:55.243Z",
@@ -21,15 +21,15 @@
   "milestone": 1,
   "users": {
     "Nithinkumaru777": {
-      "last": "2026-11-14T15:50:55.132Z",
+      "last": "2026-11-14T15:53:42.046Z",
       "day": "2026-11-14",
-      "today": 1,
-      "total": 1
+      "today": 2,
+      "total": 2
     }
   },
   "daily": {
     "day": "2026-11-14",
-    "count": 1
+    "count": 2
   },
   "guestbook": []
 }
