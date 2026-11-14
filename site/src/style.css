@@ -53,7 +53,7 @@ h1 { font-size: clamp(3rem, 7.2vw, 5.8rem); letter-spacing: -0.025em; margin: 4p
 .howto.done { opacity: 0; }
 .byte { position: absolute; left: 0; top: 0; cursor: grab; touch-action: none; z-index: 3; will-change: transform; }
 .byte.held { cursor: grabbing; }
-.byte-body { width: 100%; height: 100%; }
+.byte-body { width: 100%; height: 100%; pointer-events: none; } /* redraws replace this SVG mid-press; events must target the stable #byte or click/dblclick never fire */
 .byte-body svg { display: block; overflow: visible; }
 .byte-body svg > g > ellipse:first-child { transition: opacity .15s; }
 .byte.air .byte-body svg > g > ellipse:first-child { opacity: 0; }
