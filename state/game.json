@@ -2,11 +2,11 @@
   "board": [
     null,
     null,
-    null,
+    "O",
     "O",
     "X",
     null,
-    null,
+    "X",
     null,
     null
   ],
@@ -20,5 +20,5 @@
     "line": [],
     "by": null
   },
-  "moves": 1
+  "moves": 2
 }
