@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=c490b696"><img src="assets/hero-light.svg?v=37bac573" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=694957b5"><img src="assets/hero-light.svg?v=4523ab16" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -11,7 +11,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=183248ca"><img src="assets/byte-light.svg?v=7e5cee01" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 81, energy 82, hunger 32. 1 pets all-time."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=03a2ed0a"><img src="assets/byte-light.svg?v=e45cdfaa" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 81, energy 82, hunger 32. 1 pets all-time."></picture>
 
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cpet&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-pet-dark.svg?v=3fc88b8a"><img src="assets/btn-pet-light.svg?v=3ed12de6" width="150" alt="Pet Byte"></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Ccookie&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-feed-dark.svg?v=9aa4e97d"><img src="assets/btn-feed-light.svg?v=e8601aa9" width="150" alt="Feed Byte"></picture></a>
@@ -50,11 +50,11 @@ Drawn by this repo's own workflow from the GitHub API. No third-party stat servi
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=555b2d27"><img src="assets/streak-light.svg?v=f274cf8f" width="49%" alt="Contribution streak: 5 days. Longest: 36 days."></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=fe5dbe12"><img src="assets/week-light.svg?v=3d62cabe" width="49%" alt="Contributions in the last seven days: 0, 0, 1, 2, 51, 22, 30."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=d0cec109"><img src="assets/snake-light.svg?v=775862f0" width="100%" alt="Contribution snake, with Byte chasing it."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=ea804ab9"><img src="assets/snake-light.svg?v=a659aad0" width="100%" alt="Contribution snake, with Byte chasing it."></picture>
 
 ## Byte's friends
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=f57712f9"><img src="assets/friends-light.svg?v=409c2709" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (4)."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=dd7cccbf"><img src="assets/friends-light.svg?v=a835eac4" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (5)."></picture>
 
 ## Play tic-tac-toe against Byte
 
@@ -62,7 +62,7 @@ You are X. Press an empty square, then press **Create**. Byte plays O and replie
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-status-dark.svg?v=2bfa50e1"><img src="assets/ttt-status-light.svg?v=c59a2155" width="420" alt="Tic-tac-toe with Byte. New game. You are X. Score: friends 0, Byte 0, draws 0."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-status-dark.svg?v=df2ba6ce"><img src="assets/ttt-status-light.svg?v=c77bcbd1" width="420" alt="Tic-tac-toe with Byte. New game. You are X. Score: friends 0, Byte 0, draws 0."></picture>
 <br>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C0&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-0-dark.svg?v=a162b0de"><img src="assets/ttt-0-light.svg?v=33487362" width="104" alt="Square 1: empty. Open an issue to play X here."></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C1&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-1-dark.svg?v=caed526e"><img src="assets/ttt-1-light.svg?v=f8a39a2c" width="104" alt="Square 2: empty. Open an issue to play X here."></picture></a>
@@ -84,7 +84,7 @@ You are X. Press an empty square, then press **Create**. Byte plays O and replie
 
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg?v=cc74c6c5"><img src="assets/footer-light.svg?v=8619b8ec" width="100%" alt="Byte waves goodbye. Nithin Kumar U is open to freelance work."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg?v=82fcc4ed"><img src="assets/footer-light.svg?v=633c3b77" width="100%" alt="Byte waves goodbye. Nithin Kumar U is open to freelance work."></picture></a>
 
 <a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><b>Play with Byte on the full site</b></a> &nbsp;·&nbsp; <a href="https://github.com/Nithinkumaru777?tab=repositories">All repositories</a> &nbsp;·&nbsp; <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/blob/main/README_SETUP.md">How this profile works</a>
 

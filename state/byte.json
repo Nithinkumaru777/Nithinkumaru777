@@ -3,7 +3,7 @@
   "happiness": 81,
   "energy": 82,
   "hunger": 32,
-  "xp": 25,
+  "xp": 28,
   "level": 2,
   "mood": "excited",
   "moodUntil": "2026-11-14T18:56:12.506Z",
@@ -13,23 +13,25 @@
     "day": "2026-11-14"
   },
   "accessories": {
-    "owned": [],
-    "wearing": null
+    "owned": [
+      "hat"
+    ],
+    "wearing": "hat"
   },
   "lastDecay": "2026-11-14T15:50:41.806Z",
   "lastPush": "2026-11-14T15:14:28Z",
   "milestone": 1,
   "users": {
     "Nithinkumaru777": {
-      "last": "2026-11-14T15:56:12.506Z",
+      "last": "2026-11-14T15:58:18.491Z",
       "day": "2026-11-14",
-      "today": 4,
-      "total": 4
+      "today": 5,
+      "total": 5
     }
   },
   "daily": {
     "day": "2026-11-14",
-    "count": 4
+    "count": 5
   },
   "guestbook": []
 }
