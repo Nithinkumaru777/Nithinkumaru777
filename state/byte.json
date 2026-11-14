@@ -1,8 +1,8 @@
 {
   "name": "Byte",
-  "happiness": 85,
-  "energy": 83,
-  "hunger": 33,
+  "happiness": 84,
+  "energy": 86,
+  "hunger": 36,
   "xp": 36,
   "level": 2,
   "mood": "excited",
@@ -18,7 +18,7 @@
     ],
     "wearing": "hat"
   },
-  "lastDecay": "2026-11-14T16:09:59.171Z",
+  "lastDecay": "2026-11-14T17:02:54.316Z",
   "lastPush": "2026-11-14T15:14:28Z",
   "milestone": 1,
   "users": {

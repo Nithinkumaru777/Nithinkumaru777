@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=43171b40"><img src="assets/hero-light.svg?v=4e843555" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=f96ce058"><img src="assets/hero-light.svg?v=e4bcfc7d" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -11,7 +11,9 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=5f64c3c5"><img src="assets/byte-light.svg?v=e5c7a56b" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 85, energy 83, hunger 33. 1 pets all-time."></picture>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=24a4132d"><img src="assets/byte-light.svg?v=19c25711" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 84, energy 86, hunger 36. 1 pets all-time."></picture></a>
+
+<sub>GitHub pages can't run code, so these buttons work through issues: press one, then press <b>Create</b>. To drag, pet and feed Byte right now, <a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><b>play with him live</b></a>.</sub>
 
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cpet&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-pet-dark.svg?v=3fc88b8a"><img src="assets/btn-pet-light.svg?v=3ed12de6" width="150" alt="Pet Byte"></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Ccookie&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-feed-dark.svg?v=9aa4e97d"><img src="assets/btn-feed-light.svg?v=e8601aa9" width="150" alt="Feed Byte"></picture></a>
@@ -26,11 +28,11 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 ## About me
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg?v=bbec0e32"><img src="assets/about-light.svg?v=194cfb26" width="100%" alt="About Nithin Kumar U: based in Bengaluru, India. Building websites, dashboards, apps and AI tools for clients. Learning motion design and desktop engineering. Ask me about shipping a client project end to end."></picture>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg?v=bbec0e32"><img src="assets/about-light.svg?v=194cfb26" width="100%" alt="About Nithin Kumar U: based in Bengaluru, India. Building websites, dashboards, apps and AI tools for clients. Learning motion design and desktop engineering. Ask me about shipping a client project end to end."></picture></a>
 
 ## What I work with
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=bd6481b2"><img src="assets/stack-light.svg?v=05f277e0" width="100%" alt="Tech stack. Frontend: HTML, CSS, TypeScript, React, Astro, Tailwind, GSAP, Three.js. Backend: Python, FastAPI, Node, SQLite, MongoDB. AI: Claude Code, Antigravity, Prompting, Agents. Tools: Git, Actions, Electron, VS Code, Figma."></picture>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/#skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=bd6481b2"><img src="assets/stack-light.svg?v=05f277e0" width="100%" alt="Tech stack. Frontend: HTML, CSS, TypeScript, React, Astro, Tailwind, GSAP, Three.js. Backend: Python, FastAPI, Node, SQLite, MongoDB. AI: Claude Code, Antigravity, Prompting, Agents. Tools: Git, Actions, Electron, VS Code, Figma."></picture></a>
 
 ## Featured projects
 
@@ -44,17 +46,17 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 Drawn by this repo's own workflow from the GitHub API. No third-party stat services.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=709c9052"><img src="assets/stats-light.svg?v=f2aafcce" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6768 commits this year, 1521 pull requests, 1612 issues, 12 repos, 1 followers."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=94cf1de8"><img src="assets/languages-light.svg?v=5e6693b7" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=4e22cfad"><img src="assets/stats-light.svg?v=e0d84e7e" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6769 commits this year, 1521 pull requests, 1612 issues, 12 repos, 1 followers."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=a195ef58"><img src="assets/languages-light.svg?v=f8a7ddaf" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=555b2d27"><img src="assets/streak-light.svg?v=f274cf8f" width="49%" alt="Contribution streak: 5 days. Longest: 36 days."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=22dfdd9c"><img src="assets/week-light.svg?v=9457047d" width="49%" alt="Contributions in the last seven days: 0, 0, 1, 2, 51, 22, 43."></picture>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=555b2d27"><img src="assets/streak-light.svg?v=f274cf8f" width="49%" alt="Contribution streak: 5 days. Longest: 36 days."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=de2deb61"><img src="assets/week-light.svg?v=c7b240e6" width="49%" alt="Contributions in the last seven days: 0, 0, 1, 2, 51, 22, 44."></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=ea804ab9"><img src="assets/snake-light.svg?v=a659aad0" width="100%" alt="Contribution snake, with Byte chasing it."></picture>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=ea804ab9"><img src="assets/snake-light.svg?v=a659aad0" width="100%" alt="Contribution snake, with Byte chasing it."></picture></a>
 
 ## Byte's friends
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=a0036c62"><img src="assets/friends-light.svg?v=874eaaf3" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (7)."></picture>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cpet&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=a0036c62"><img src="assets/friends-light.svg?v=874eaaf3" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (7)."></picture></a>
 
 ## Play tic-tac-toe against Byte
 
@@ -62,14 +64,14 @@ You are X. Press an empty square, then press **Create**. Byte plays O and replie
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-status-dark.svg?v=b2f7637c"><img src="assets/ttt-status-light.svg?v=8158a581" width="420" alt="Tic-tac-toe with Byte. Your move. You are X. Score: friends 0, Byte 0, draws 0."></picture>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-status-dark.svg?v=b2f7637c"><img src="assets/ttt-status-light.svg?v=8158a581" width="420" alt="Tic-tac-toe with Byte. Your move. You are X. Score: friends 0, Byte 0, draws 0."></picture></a>
 <br>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C0&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-0-dark.svg?v=a162b0de"><img src="assets/ttt-0-light.svg?v=33487362" width="104" alt="Square 1: empty. Open an issue to play X here."></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C1&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-1-dark.svg?v=caed526e"><img src="assets/ttt-1-light.svg?v=f8a39a2c" width="104" alt="Square 2: empty. Open an issue to play X here."></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C2&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-2-dark.svg?v=e64b5f5b"><img src="assets/ttt-2-light.svg?v=b49d9616" width="104" alt="Square 3: empty. Open an issue to play X here."></picture></a>
 <br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-3-dark.svg?v=7b40e403"><img src="assets/ttt-3-light.svg?v=f44a9eca" width="104" alt="Square 4: O (Byte)"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-4-dark.svg?v=708c1ac4"><img src="assets/ttt-4-light.svg?v=2f1fde2b" width="104" alt="Square 5: X (visitors)"></picture>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-3-dark.svg?v=7b40e403"><img src="assets/ttt-3-light.svg?v=f44a9eca" width="104" alt="Square 4: O (Byte)"></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-4-dark.svg?v=708c1ac4"><img src="assets/ttt-4-light.svg?v=2f1fde2b" width="104" alt="Square 5: X (visitors)"></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C5&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-5-dark.svg?v=5e783a77"><img src="assets/ttt-5-light.svg?v=beb88025" width="104" alt="Square 6: empty. Open an issue to play X here."></picture></a>
 <br>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C6&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-6-dark.svg?v=224bd1b3"><img src="assets/ttt-6-light.svg?v=f6e77bf5" width="104" alt="Square 7: empty. Open an issue to play X here."></picture></a>
