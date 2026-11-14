@@ -1,4 +1,12 @@
 {
-  "recent": [],
-  "counts": {}
+  "recent": [
+    {
+      "user": "Nithinkumaru777",
+      "action": "pet",
+      "at": "2026-11-14T15:50:55.132Z"
+    }
+  ],
+  "counts": {
+    "Nithinkumaru777": 1
+  }
 }
