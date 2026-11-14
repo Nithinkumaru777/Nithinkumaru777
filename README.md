@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=7b41f33d"><img src="assets/hero-light.svg?v=755292f0" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=ecf8a0d5"><img src="assets/hero-light.svg?v=644292b0" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -11,7 +11,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=a81fc200"><img src="assets/byte-light.svg?v=6e0a1587" width="600" alt="Byte is party time. Level 1. Happiness 59, energy 100, hunger 51. 0 pets all-time."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=94ea2812"><img src="assets/byte-light.svg?v=96e40695" width="600" alt="Byte is party time. Level 1. Happiness 51, energy 100, hunger 67. 0 pets all-time."></picture>
 
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cpet&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-pet-dark.svg?v=3fc88b8a"><img src="assets/btn-pet-light.svg?v=3ed12de6" width="150" alt="Pet Byte"></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Ccookie&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-feed-dark.svg?v=9aa4e97d"><img src="assets/btn-feed-light.svg?v=e8601aa9" width="150" alt="Feed Byte"></picture></a>
@@ -44,11 +44,11 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 Drawn by this repo's own workflow from the GitHub API. No third-party stat services.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=504ca906"><img src="assets/stats-light.svg?v=f6662a2e" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6747 commits this year, 1521 pull requests, 1598 issues, 12 repos, 1 followers."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=11637e2a"><img src="assets/stats-light.svg?v=b124ce85" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6767 commits this year, 1521 pull requests, 1600 issues, 12 repos, 1 followers."></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=94cf1de8"><img src="assets/languages-light.svg?v=5e6693b7" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=555b2d27"><img src="assets/streak-light.svg?v=f274cf8f" width="49%" alt="Contribution streak: 5 days. Longest: 36 days."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=5bd2f3ed"><img src="assets/week-light.svg?v=a27e5f2d" width="49%" alt="Contributions in the last seven days: 0, 0, 1, 2, 51, 22, 8."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=fe5dbe12"><img src="assets/week-light.svg?v=3d62cabe" width="49%" alt="Contributions in the last seven days: 0, 0, 1, 2, 51, 22, 30."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=d0cec109"><img src="assets/snake-light.svg?v=775862f0" width="100%" alt="Contribution snake, with Byte chasing it."></picture>
 
