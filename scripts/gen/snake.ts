@@ -15,12 +15,12 @@ const level = (n: number, max: number) => (n === 0 ? 0 : Math.min(4, 1 + Math.fl
  */
 export function snake(t: Theme, s: Stats, w: World) {
   const snk = `assets/snk-${t.mode}.svg`;
-  const H = 300, trackY = 268;
-  const runner = byte({ t, mood: 'happy', stage: stageFor(w.byte.level), wearing: w.byte.accessories.wearing, x: 0, y: 0, scale: 0.34, id: 'ch' });
+  const H = 316, trackY = 288;
+  const runner = byte({ t, mood: 'happy', stage: stageFor(w.byte.level), wearing: w.byte.accessories.wearing, x: 0, y: 0, scale: existsSync(`assets/snk-${t.mode}.svg`) ? 0.44 : 0.34, id: 'ch' });
   if (existsSync(snk)) {
     const data = Buffer.from(readFileSync(snk)).toString('base64');
-    const css = `${runner.css}.run{animation:run 22s linear infinite}@keyframes run{from{transform:translateX(-60px)}to{transform:translateX(${W + 60}px)}}`;
-    return doc({ w: W, h: H, t, title: 'Contribution snake, with Byte chasing it.', css, body: `${heading(t, 'Byte chases the contribution snake')}<image x="40" y="62" width="${W - 80}" height="170" preserveAspectRatio="xMidYMid meet" href="data:image/svg+xml;base64,${data}"/><path d="M40,${trackY + 2} h${W - 80}" stroke="${t.line}" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12"/><g class="run"><g transform="translate(0,${trackY})">${runner.svg}</g></g>` });
+    const css = `${runner.css}.run{animation:run 14s ${EASE.io} infinite alternate}@keyframes run{from{transform:translateX(70px)}to{transform:translateX(${W - 70}px)}}`;
+    return doc({ w: W, h: H, t, title: 'Contribution snake, with Byte chasing it.', css, body: `${heading(t, 'Byte chases the contribution snake')}<image x="40" y="60" width="${W - 80}" height="150" preserveAspectRatio="xMidYMid meet" href="data:image/svg+xml;base64,${data}"/><path d="M40,${trackY + 2} h${W - 80}" stroke="${t.line}" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12"/><g class="run"><g transform="translate(0,${trackY})">${runner.svg}</g></g>` });
   }
   const cal = s.calendar.length ? s.calendar.slice(-COLS * ROWS) : [];
   const max = Math.max(1, ...cal), pad = COLS * ROWS - cal.length;

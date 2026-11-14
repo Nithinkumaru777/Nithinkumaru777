@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=26a11f13"><img src="assets/hero-light.svg?v=1e19caf6" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=7b41f33d"><img src="assets/hero-light.svg?v=755292f0" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -50,7 +50,7 @@ Drawn by this repo's own workflow from the GitHub API. No third-party stat servi
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=555b2d27"><img src="assets/streak-light.svg?v=f274cf8f" width="49%" alt="Contribution streak: 5 days. Longest: 36 days."></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=5bd2f3ed"><img src="assets/week-light.svg?v=a27e5f2d" width="49%" alt="Contributions in the last seven days: 0, 0, 1, 2, 51, 22, 8."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=8c94ae53"><img src="assets/snake-light.svg?v=0bdecc87" width="100%" alt="A year of contributions as a grid. A snake eats the squares and Byte runs after it."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=d0cec109"><img src="assets/snake-light.svg?v=775862f0" width="100%" alt="Contribution snake, with Byte chasing it."></picture>
 
 ## Byte's friends
 
