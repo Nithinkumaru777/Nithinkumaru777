@@ -34,7 +34,7 @@ h2 { font-size: clamp(2rem, 4.4vw, 3.2rem); margin-bottom: clamp(24px, 4vw, 40px
 .btn { display: inline-flex; align-items: center; gap: 8px; font: 600 1.05rem var(--font); color: var(--ink); text-decoration: none; padding: 12px 24px; border: 3px solid var(--ink); border-radius: 999px; background: var(--card); cursor: pointer; transition: transform .2s cubic-bezier(.3,1.4,.5,1), box-shadow .2s; box-shadow: 0 4px 0 var(--ink); }
 .btn:hover { color: var(--ink); transform: translateY(-2px); box-shadow: 0 6px 0 var(--ink); }
 .btn:active { transform: translateY(3px); box-shadow: 0 1px 0 var(--ink); }
-.btn.primary { background: var(--accent); }
+.btn.primary { background: var(--accent); color: #2B2017; } /* dark ink on orange in both themes: cream on orange is 2.2:1 */
 .btn.small { padding: 8px 18px; font-size: 1rem; box-shadow: 0 3px 0 var(--ink); }
 .cta { display: flex; flex-wrap: wrap; gap: 14px; }
 
