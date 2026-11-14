@@ -144,7 +144,8 @@ export class Actor {
       if (this.dragging || e.buttons || e.pointerType === 'touch') return;
       const now = performance.now();
       if (now - this.petLast > 400) this.petAcc = 0;
-      this.petAcc += Math.min(40, Math.hypot(e.movementX, e.movementY));   // one big jump is not a stroke this.petLast = now;
+      this.petAcc += Math.min(40, Math.hypot(e.movementX, e.movementY));   // one big jump is not a stroke
+      this.petLast = now;
       if (this.petAcc > 260 && now > this.petCool) { this.petAcc = 0; this.petCool = now + 1100; this.pet(); }
     });
     // Touch: a long, slow press-and-wiggle is hard on phones, so a simple tap pets.
