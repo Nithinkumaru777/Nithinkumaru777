@@ -1,0 +1,39 @@
+name: Contribution snake
+on:
+  schedule:
+    - cron: '41 1 * * *'     # once a day, 07:11 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/snake.yml']   # run once when this workflow is added or changed
+permissions:
+  contents: write
+concurrency:
+  group: byte-refresh
+  cancel-in-progress: false
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snk-light.svg?color_snake=#FF6A2B&color_dots=#EAD9C3,#FFD9C2,#F3CE98,#FF6A2B,#2B2017
+            assets/snk-dark.svg?color_snake=#FF7A3D&color_dots=#3D3229,#573222,#E0C08C,#FF7A3D,#F8EDDD
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - name: Put Byte on the snake card
+        run: npx tsx scripts/generate.ts
+      - name: Commit only if something changed
+        run: |
+          git config user.name "byte-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A README.md assets state
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Byte: fresh contribution snake"
+          git push || (git pull --rebase -X theirs && git push)

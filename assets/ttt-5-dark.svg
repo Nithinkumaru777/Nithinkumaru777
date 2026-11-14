@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" width="132" height="132" role="img" aria-label="Square 6: empty. Open an issue to play X here."><title>Square 6: empty. Open an issue to play X here.</title><style>
+text{font-family:'Fredoka','Trebuchet MS',sans-serif;fill:#F8EDDD}.b{font-weight:600}.s{fill:#B9A894}.m{font-family:'JBMono',ui-monospace,monospace;font-weight:500}.a{fill:#FF8A55}
+.dr{animation:dr .5s cubic-bezier(.2,.8,.2,1) both}.d2{animation-delay:.22s}@keyframes dr{from{stroke-dashoffset:10}to{stroke-dashoffset:0}}
+.hint{transform-box:fill-box;transform-origin:center;animation:hint 2.4s cubic-bezier(.65,0,.35,1) 1.05s infinite}@keyframes hint{0%,100%{transform:scale(.7);opacity:.6}50%{transform:scale(1.5);opacity:1}}
+.hot{animation:hot 1s cubic-bezier(.65,0,.35,1) infinite alternate}@keyframes hot{from{opacity:.25}to{opacity:.9}}.cell{transform-box:fill-box;transform-origin:center;}@keyframes win{from{transform:scale(.94)}to{transform:scale(1)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style><g class="cell"><rect x="5" y="5" width="122" height="122" rx="24" fill="#27201A" stroke="#F8EDDD" stroke-width="4"/><g class="hint"><circle cx="66" cy="66" r="7" fill="#3D3229"/></g></g></svg>

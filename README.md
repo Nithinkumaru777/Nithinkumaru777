@@ -1,151 +1,91 @@
-<!-- Profile README for github.com/Nithinkumaru777 — Repository: Nithinkumaru777/Nithinkumaru777 -->
-
+<!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=180&section=header&text=Nithin%20Kumar%20U&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Desktop%20Engineering%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Full-Stack%20Web&descAlignY=58&descSize=16" width="100%"/>
-
-<a href="https://github.com/Nithinkumaru777">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%26+Automation+Engineer;I+ship+desktop+apps+with+native+installers;Electron+%E2%80%A2+FastAPI+%E2%80%A2+Python+%E2%80%A2+TypeScript;5%2C000%2B+Contributions+in+2025-2026+%E2%9A%A1;AI-Augmented+Engineering+with+Antigravity+%26+Claude" alt="Typing SVG"/>
-</a>
-
-<p align="center">
-  <a href="https://github.com/Nithinkumaru777?tab=followers"><img src="https://img.shields.io/github/followers/Nithinkumaru777?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nithinkumaru777&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <a href="https://github.com/Nithinkumaru777"><img src="https://img.shields.io/badge/GitHub_Pro-Verified-7952CC?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Pro"/></a>
-</p>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=26a11f13"><img src="assets/hero-light.svg?v=1e19caf6" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
----
+## Meet Byte
 
-### 🧭 About Me
-
-- 💻 **Core Focus**: Designing and shipping high-performance Windows desktop applications, AI automation tools, and modern web architectures.
-- ⚡ **Flagship Systems**: 
-  - **[Nexus Optimize & Mod](https://github.com/Nithinkumaru777/NexusOptimize)**: Real-time telemetry, automated binary-search mod bisect, and rollback snapshotting.
-  - **[Driver Mitra Taxi](https://github.com/Nithinkumaru777/driver-mitra-taxi)**: High-speed commercial taxi reservation & driver fleet platform built with Astro.
-  - **[Repurpose.AI](https://github.com/Nithinkumaru777/repurpose-ai)**: Interactive AI content repurposing SPA with interactive 3D WebGL cursor tracking.
-- 🤖 **Engineering Philosophy**: AI-augmented software engineering (Claude Code + Antigravity) — focusing on clean diffs, zero slop, and production-ready installers over toy prototypes.
-- 📈 **Relentless Drive**: **5,000+ contributions** over the past year, reflecting daily shipping discipline.
-
----
-
-### 🛠️ Tech Stack & Architecture
+Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11 pm in Bengaluru and levels up when people are kind to it. Press a button, then press **Create** on the page that opens. Byte answers in about a minute.
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=a8ded625"><img src="assets/byte-light.svg?v=5a50a5be" width="600" alt="Byte is hanging out. Level 1. Happiness 70, energy 80, hunger 30. 0 pets all-time."></picture>
 
-<br/>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cpet&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-pet-dark.svg?v=3fc88b8a"><img src="assets/btn-pet-light.svg?v=3ed12de6" width="150" alt="Pet Byte"></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Ccookie&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-feed-dark.svg?v=9aa4e97d"><img src="assets/btn-feed-light.svg?v=e8601aa9" width="150" alt="Feed Byte"></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cplay&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-play-dark.svg?v=314fc420"><img src="assets/btn-play-light.svg?v=488703f0" width="150" alt="Play"></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Csay%7CHi%20Byte!&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-say-dark.svg?v=f9aac923"><img src="assets/btn-say-light.svg?v=c6488e18" width="150" alt="Say hi"></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cdance&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-dance-dark.svg?v=4b1e229a"><img src="assets/btn-dance-light.svg?v=08b73f13" width="150" alt="Dance"></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Caccessory%7Chat&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-hat-dark.svg?v=2f0e90d3"><img src="assets/btn-hat-light.svg?v=9b207b1d" width="150" alt="Give a hat"></picture></a>
 
-**Desktop & Backend Systems**<br/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyWebView-0175C2?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyInstaller-2B5B84?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br/>
-
-**Web & UI Engineering**<br/>
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
-
-<br/>
-
-**Tools, DevOps & AI Tooling**<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<sub>More: <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Cdosa&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds.">feed a dosa</a>, <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Cchai&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds.">pour some chai</a>, <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Caccessory%7Cshades&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds.">shades</a>, <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Caccessory%7Cbow&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds.">bow tie</a>. To leave your own note, press <b>Say hi</b> and change the words after <code>byte|say|</code> (80 characters at most).</sub>
 
 </div>
 
----
+## About me
 
-### 🚀 Featured Engineering Projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg?v=bbec0e32"><img src="assets/about-light.svg?v=194cfb26" width="100%" alt="About Nithin Kumar U: based in Bengaluru, India. Building websites, dashboards, apps and AI tools for clients. Learning motion design and desktop engineering. Ask me about shipping a client project end to end."></picture>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## What I work with
 
-#### ⚙️ [Nexus Optimize & Mod](https://github.com/Nithinkumaru777/NexusOptimize)
-Windows PC game optimizer and mod manager. Features real-time telemetry (FPS & 1% lows via ETW/PresentMon), automated **binary-search mod bisect** to identify crash-causing mods, LZMA compressed save-state rollbacks, and configuration snapshotting.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=bd6481b2"><img src="assets/stack-light.svg?v=05f277e0" width="100%" alt="Tech stack. Frontend: HTML, CSS, TypeScript, React, Astro, Tailwind, GSAP, Three.js. Backend: Python, FastAPI, Node, SQLite, MongoDB. AI: Claude Code, Antigravity, Prompting, Agents. Tools: Git, Actions, Electron, VS Code, Figma."></picture>
 
-`Python` `Electron` `FastAPI` `SQLite (WAL)`
+## Featured projects
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/Nithinkumaru777/saakh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-saakh-dark.svg?v=3ca1ce4c"><img src="assets/project-saakh-light.svg?v=dfeab904" width="49%" alt="Saakh: AI loan eligibility and risk assessment. 0 stars."></picture></a>
+<a href="https://github.com/Nithinkumaru777/meeting-action-log"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-meeting-action-log-dark.svg?v=9d89e346"><img src="assets/project-meeting-action-log-light.svg?v=d8e869f4" width="49%" alt="Meeting Action Log: Decisions and action items from every meeting. 0 stars."></picture></a>
 
-#### 🚕 [Driver Mitra Taxi](https://github.com/Nithinkumaru777/driver-mitra-taxi)
-Modern, lightning-fast commercial reservation and fleet coordination web platform for on-demand taxi services. Engineered with an Astro SSR architecture, responsive interactive booking modules, and production-grade client performance.
+<a href="https://github.com/Nithinkumaru777/NexusOptimize"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nexusoptimize-dark.svg?v=fe27d59a"><img src="assets/project-nexusoptimize-light.svg?v=702b9666" width="49%" alt="Nexus Optimize &amp; Mod: Game optimiser and mod manager for Windows. 0 stars."></picture></a>
+<a href="https://github.com/Nithinkumaru777/gitpulse-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gitpulse-desktop-dark.svg?v=3949fa86"><img src="assets/project-gitpulse-desktop-light.svg?v=1675d10a" width="49%" alt="GitPulse Desktop: GitHub activity at a glance, on the desktop. 0 stars."></picture></a>
 
-`Astro` `TypeScript` `Tailwind CSS`
+## Numbers
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Drawn by this repo's own workflow from the GitHub API. No third-party stat services.
 
-#### 🧠 [Repurpose.AI](https://github.com/Nithinkumaru777/repurpose-ai)
-High-fidelity Single Page Application transforming long-form content into Twitter threads, LinkedIn thought-leadership, Instagram carousels, and newsletters. Features an interactive, cursor-tracking 3D WebGL hero canvas with dynamic view-height coordinate mapping.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=111e09f0"><img src="assets/stats-light.svg?v=c7e24231" width="49%" alt="GitHub stats for Nithin Kumar U: 0 stars, 0 commits this year, 0 pull requests, 0 issues, 0 repos, 0 followers."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=73d5a0c2"><img src="assets/languages-light.svg?v=766032b7" width="49%" alt="Most used languages: TypeScript 40%, Python 30%, HTML 18%, CSS 12%."></picture>
 
-`JavaScript` `Tailwind CSS` `Three.js` `WebGL`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=75888d9d"><img src="assets/streak-light.svg?v=e5f975c3" width="49%" alt="Contribution streak: 0 days. Longest: 0 days."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=883bc5f2"><img src="assets/week-light.svg?v=4d47dee3" width="49%" alt="Contributions in the last seven days: 0, 0, 0, 0, 0, 0, 0."></picture>
 
-</td>
-<td width="50%" valign="top">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=55b01a37"><img src="assets/snake-light.svg?v=040b63cf" width="100%" alt="A year of contributions as a grid. A snake eats the squares and Byte runs after it."></picture>
 
-#### ⚡ [GitPulse Desktop](https://github.com/Nithinkumaru777/gitpulse-desktop)
-Desktop system tray utility with a custom Windows setup wizard installer (desktop shortcuts, registry auto-start, silent boot). Built with PyWebView and decoupled background worker threads with automated exponential backoff network retries.
+## Byte's friends
 
-`Python` `PyWebView` `PyInstaller` `InnoSetup`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=8ee8de99"><img src="assets/friends-light.svg?v=c92f6e90" width="100%" alt="Byte's friends: nobody yet. Press a button under Byte to be the first."></picture>
 
-</td>
-</tr>
-</table>
+## Play tic-tac-toe against Byte
 
----
-
-### 📊 GitHub Activity & Analytics
+You are X. Press an empty square, then press **Create**. Byte plays O and replies with its move.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Nithinkumaru777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinkumaru777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Nithinkumaru777&theme=tokyonight&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="70%" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nithinkumaru777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-status-dark.svg?v=2bfa50e1"><img src="assets/ttt-status-light.svg?v=c59a2155" width="420" alt="Tic-tac-toe with Byte. New game. You are X. Score: friends 0, Byte 0, draws 0."></picture>
+<br>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C0&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-0-dark.svg?v=a162b0de"><img src="assets/ttt-0-light.svg?v=33487362" width="104" alt="Square 1: empty. Open an issue to play X here."></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C1&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-1-dark.svg?v=caed526e"><img src="assets/ttt-1-light.svg?v=f8a39a2c" width="104" alt="Square 2: empty. Open an issue to play X here."></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C2&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-2-dark.svg?v=e64b5f5b"><img src="assets/ttt-2-light.svg?v=b49d9616" width="104" alt="Square 3: empty. Open an issue to play X here."></picture></a>
+<br>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C3&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-3-dark.svg?v=5ddf52cf"><img src="assets/ttt-3-light.svg?v=b777bca8" width="104" alt="Square 4: empty. Open an issue to play X here."></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C4&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-4-dark.svg?v=3d358a77"><img src="assets/ttt-4-light.svg?v=fd870f4b" width="104" alt="Square 5: empty. Open an issue to play X here."></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C5&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-5-dark.svg?v=5e783a77"><img src="assets/ttt-5-light.svg?v=beb88025" width="104" alt="Square 6: empty. Open an issue to play X here."></picture></a>
+<br>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C6&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-6-dark.svg?v=224bd1b3"><img src="assets/ttt-6-light.svg?v=f6e77bf5" width="104" alt="Square 7: empty. Open an issue to play X here."></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C7&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-7-dark.svg?v=321cab20"><img src="assets/ttt-7-light.svg?v=43b43563" width="104" alt="Square 8: empty. Open an issue to play X here."></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C8&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-8-dark.svg?v=a10b410b"><img src="assets/ttt-8-light.svg?v=367cc4d3" width="104" alt="Square 9: empty. Open an issue to play X here."></picture></a>
 
 </div>
 
----
+## Guestbook
 
-### 🐍 Contribution Graph in Motion
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Csay%7CHi%20Byte!&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/guestbook-dark.svg?v=75b09bcd"><img src="assets/guestbook-light.svg?v=018c48f5" width="100%" alt="Guestbook: no messages yet. Use Say hi to leave one."></picture></a>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithinkumaru777/Nithinkumaru777/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Nithinkumaru777/Nithinkumaru777/output/github-snake.svg" alt="Contribution Snake"/>
-</picture>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg?v=cc74c6c5"><img src="assets/footer-light.svg?v=8619b8ec" width="100%" alt="Byte waves goodbye. Nithin Kumar U is open to freelance work."></picture></a>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1f6feb,100:0d1117&height=110&section=footer" width="100%"/>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><b>Play with Byte on the full site</b></a> &nbsp;·&nbsp; <a href="https://github.com/Nithinkumaru777?tab=repositories">All repositories</a> &nbsp;·&nbsp; <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/blob/main/README_SETUP.md">How this profile works</a>
 
 </div>

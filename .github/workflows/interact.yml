@@ -1,0 +1,26 @@
+name: Byte interactions
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: byte-interact     # one job at a time; each job handles every waiting issue, so none is lost
+  cancel-in-progress: false
+jobs:
+  interact:
+    if: startsWith(github.event.issue.title, 'byte|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - name: Handle every open Byte issue
+        run: |
+          git config user.name "byte-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          npx tsx scripts/interact.ts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

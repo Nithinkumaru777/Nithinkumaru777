@@ -1,0 +1,5 @@
+node_modules/
+previews/
+site/node_modules/
+site/dist/
+*.log

@@ -1,0 +1,28 @@
+{
+  "name": "Byte",
+  "happiness": 70,
+  "energy": 80,
+  "hunger": 30,
+  "xp": 0,
+  "level": 1,
+  "mood": "idle",
+  "moodUntil": null,
+  "pets": {
+    "today": 0,
+    "total": 0,
+    "day": "2026-11-14"
+  },
+  "accessories": {
+    "owned": [],
+    "wearing": null
+  },
+  "lastDecay": "2026-11-14T03:16:37.738Z",
+  "lastPush": null,
+  "milestone": 0,
+  "users": {},
+  "daily": {
+    "day": "2026-11-14",
+    "count": 0
+  },
+  "guestbook": []
+}
