@@ -50,7 +50,7 @@ Drawn by this repo's own workflow from the GitHub API. No third-party stat servi
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=75888d9d"><img src="assets/streak-light.svg?v=e5f975c3" width="49%" alt="Contribution streak: 0 days. Longest: 0 days."></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=883bc5f2"><img src="assets/week-light.svg?v=4d47dee3" width="49%" alt="Contributions in the last seven days: 0, 0, 0, 0, 0, 0, 0."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=55b01a37"><img src="assets/snake-light.svg?v=040b63cf" width="100%" alt="A year of contributions as a grid. A snake eats the squares and Byte runs after it."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=164b42b3"><img src="assets/snake-light.svg?v=c6e3f17c" width="100%" alt="Contribution snake, with Byte chasing it."></picture>
 
 ## Byte's friends
 
