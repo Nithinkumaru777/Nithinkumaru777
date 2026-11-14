@@ -17,7 +17,7 @@ export class Actor {
   private dragging = false; private resting = false; private raf = 0; private last = 0;
   private grab = { dx: 0, dy: 0, t: 0, px: 0, py: 0 };
   private temp: { mood: Mood | 'dance'; fx: Fx; until: number } | null = null;
-  private drawn = ''; private eyes: SVGGElement | null = null; private body!: HTMLDivElement;
+  private drawn = ''; private eyes: SVGGElement | null = null; private gaze = ''; private body!: HTMLDivElement;
   private active = performance.now(); private petAcc = 0; private petLast = 0; private petCool = 0;
   private look = { stage: 0, wearing: null as string | null };
   private bubbleTimer = 0;
@@ -64,7 +64,7 @@ export class Actor {
     this.drawn = key;
     const b = byte({ t: theme(), mood: m.mood, fx: m.fx, stage: this.look.stage, wearing: this.look.wearing, x: 0, y: 0, id: 'by' });
     this.body.innerHTML = `<svg viewBox="${VB.x} ${VB.y} ${VB.w} ${VB.h}" width="100%" height="100%" aria-hidden="true"><style>${b.css}@media (prefers-reduced-motion: reduce){.byte-body *{animation:none!important}}</style>${b.svg}</svg>`;
-    this.eyes = this.body.querySelector('.by-eyes');
+    this.eyes = this.body.querySelector('.by-eyes'); if (this.gaze) this.eyes?.setAttribute('transform', this.gaze);   // keep looking at the pointer across redraws
   }
   private feel(mood: Mood | 'dance', ms: number, fx: Fx = null) { this.temp = { mood, fx, until: performance.now() + ms }; this.draw(); setTimeout(() => this.draw(), ms + 30); }
   wake() { const was = performance.now() - this.active > 60_000; this.active = performance.now(); if (was) { this.feel('excited', 900); this.hop(); this.say('Huh? I am awake. I was just resting my pixels.'); } else this.draw(); }
@@ -156,7 +156,7 @@ export class Actor {
       if (!this.eyes) return;
       const r = this.el.getBoundingClientRect(), k = r.width / VB.w;
       const ex = r.left + (0 - VB.x) * k, ey = r.top + (-66 - VB.y) * k, dx = e.clientX - ex, dy = e.clientY - ey, d = Math.hypot(dx, dy) || 1, m = Math.min(1, d / 160) * 5;
-      this.eyes.setAttribute('transform', `translate(${((dx / d) * m).toFixed(2)},${((dy / d) * m * 0.8).toFixed(2)})`);
+      this.gaze = `translate(${((dx / d) * m).toFixed(2)},${((dy / d) * m * 0.8).toFixed(2)})`; this.eyes.setAttribute('transform', this.gaze);
     }, { passive: true });
     for (const ev of ['pointerdown', 'keydown', 'touchstart'] as const) addEventListener(ev, () => this.wake(), { passive: true });
     this.stage.addEventListener('pointermove', () => this.wake(), { passive: true });   // a hand near Byte wakes him; the rest of the page does not
