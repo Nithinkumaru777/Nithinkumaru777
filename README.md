@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=fce62e57"><img src="assets/hero-light.svg?v=ace5014e" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=24bd0ddb"><img src="assets/hero-light.svg?v=d634475e" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -11,7 +11,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=096aed06"><img src="assets/byte-light.svg?v=d9feb394" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 83, energy 93, hunger 39. 1 pets all-time."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=d8cc4296"><img src="assets/byte-light.svg?v=20cb07d9" width="600" alt="Byte is fast asleep until 7 am. Level 2. Happiness 76, energy 100, hunger 52. 1 pets all-time."></picture></a>
 
 <sub>GitHub pages can't run code, so these buttons work through issues: press one, then press <b>Create</b>. To drag, pet and feed Byte right now, <a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><b>play with him live</b></a>.</sub>
 
