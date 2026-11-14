@@ -13,6 +13,8 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 {{byte}}
 
+<sub>GitHub pages can't run code, so these buttons work through issues: press one, then press <b>Create</b>. To drag, pet and feed Byte right now, <a href="{{site}}"><b>play with him live</b></a>.</sub>
+
 {{buttons}}
 
 <sub>More: {{extras}}. To leave your own note, press <b>Say hi</b> and change the words after <code>byte|say|</code> (80 characters at most).</sub>

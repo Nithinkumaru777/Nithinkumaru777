@@ -65,19 +65,19 @@ export function build(w: World, s: Stats, meta: Meta, avatars: Record<string, st
     return href ? `<a href="${href}">${img}</a>` : img;
   };
   const over = !!winner(w.game.board) || w.game.board.every(Boolean);
-  const cell = (i: number) => (w.game.board[i] && !over ? pic(`ttt-${i}`, '104') : pic(`ttt-${i}`, '104', issueUrl(`byte|ttt|${i}`)));
+  const cell = (i: number) => (w.game.board[i] && !over ? pic(`ttt-${i}`, '104', config.site) : pic(`ttt-${i}`, '104', issueUrl(`byte|ttt|${i}`)));
   const blocks: Record<string, string> = {
     hero: pic('hero', '100%', config.site),
-    byte: pic('byte', '600'),
+    byte: pic('byte', '600', config.site),
     buttons: BUTTONS.map((b) => pic(`btn-${b.id}`, '150', issueUrl(b.title))).join('\n'),
     extras: [['feed a dosa', 'byte|feed|dosa'], ['pour some chai', 'byte|feed|chai'], ['shades', 'byte|accessory|shades'], ['bow tie', 'byte|accessory|bow']].map(([label, title]) => `<a href="${issueUrl(title)}">${label}</a>`).join(', '),
-    about: pic('about', '100%'),
-    stack: pic('stack', '100%'),
+    about: pic('about', '100%', config.site),
+    stack: pic('stack', '100%', `${config.site}#skills`),
     projects: config.projects.map((p, i) => pic(`project-${p.repo.toLowerCase()}`, '49%', `https://github.com/${config.user}/${p.repo}`) + (i % 2 ? '\n' : '')).join('\n').trim(),
-    stats: ['stats', 'languages', 'streak', 'week'].map((n, i) => pic(n, '49%') + (i % 2 ? '\n' : '')).join('\n').trim(),
-    snake: pic('snake', '100%'),
-    friends: pic('friends', '100%'),
-    ttt: `${pic('ttt-status', '420')}\n<br>\n${[0, 1, 2].map((r) => [0, 1, 2].map((c) => cell(r * 3 + c)).join('\n')).join('\n<br>\n')}`,
+    stats: ['stats', 'languages', 'streak', 'week'].map((n, i) => pic(n, '49%', `${config.links.github}?tab=repositories`) + (i % 2 ? '\n' : '')).join('\n').trim(),
+    snake: pic('snake', '100%', config.site),
+    friends: pic('friends', '100%', issueUrl('byte|pet')),
+    ttt: `${pic('ttt-status', '420', config.site)}\n<br>\n${[0, 1, 2].map((r) => [0, 1, 2].map((c) => cell(r * 3 + c)).join('\n')).join('\n<br>\n')}`,
     guestbook: pic('guestbook', '100%', issueUrl('byte|say|Hi Byte!')),
     footer: pic('footer', '100%', config.site),
     site: config.site, github: config.links.github, repo: repoUrl,

@@ -44,3 +44,10 @@ test('README: light and dark pictures, cache-busted, every image exists, issue l
   assert.doesNotMatch(md, /@gmail|mailto:/, 'no email address on the profile');
 });
 test('the build is deterministic', () => { const a = worlds.demo(), b = worlds.demo(); for (const [k, v] of a) assert.equal(b.get(k), v, k); });
+test('README: every picture is a link, so no click lands on a raw SVG', () => {
+  for (const make of Object.values(worlds)) {
+    const md = make().get('README.md')!, pics = md.match(/(?:<a href="[^"]+">)?<picture>/g) ?? [];
+    const bare = pics.filter((p) => !p.startsWith('<a '));
+    assert.equal(bare.length, 0, `${bare.length} of ${pics.length} pictures have no link`);
+  }
+});
