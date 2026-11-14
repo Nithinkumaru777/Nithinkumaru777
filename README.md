@@ -44,11 +44,11 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 Drawn by this repo's own workflow from the GitHub API. No third-party stat services.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=edb7a606"><img src="assets/stats-light.svg?v=e8cfd323" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6768 commits this year, 1521 pull requests, 1611 issues, 12 repos, 1 followers."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=709c9052"><img src="assets/stats-light.svg?v=f2aafcce" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6768 commits this year, 1521 pull requests, 1612 issues, 12 repos, 1 followers."></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=94cf1de8"><img src="assets/languages-light.svg?v=5e6693b7" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=555b2d27"><img src="assets/streak-light.svg?v=f274cf8f" width="49%" alt="Contribution streak: 5 days. Longest: 36 days."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=f0924f53"><img src="assets/week-light.svg?v=05a394c0" width="49%" alt="Contributions in the last seven days: 0, 0, 1, 2, 51, 22, 42."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=22dfdd9c"><img src="assets/week-light.svg?v=9457047d" width="49%" alt="Contributions in the last seven days: 0, 0, 1, 2, 51, 22, 43."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=ea804ab9"><img src="assets/snake-light.svg?v=a659aad0" width="100%" alt="Contribution snake, with Byte chasing it."></picture>
 
