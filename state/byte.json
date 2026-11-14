@@ -1,9 +1,9 @@
 {
   "name": "Byte",
-  "happiness": 81,
+  "happiness": 85,
   "energy": 83,
   "hunger": 33,
-  "xp": 31,
+  "xp": 36,
   "level": 2,
   "mood": "excited",
   "moodUntil": "2026-11-14T18:56:12.506Z",
@@ -23,15 +23,21 @@
   "milestone": 1,
   "users": {
     "Nithinkumaru777": {
-      "last": "2026-11-14T15:59:32.021Z",
+      "last": "2026-11-14T16:09:02.000Z",
       "day": "2026-11-14",
-      "today": 6,
-      "total": 6
+      "today": 7,
+      "total": 7
     }
   },
   "daily": {
     "day": "2026-11-14",
-    "count": 6
+    "count": 7
   },
-  "guestbook": []
+  "guestbook": [
+    {
+      "user": "Nithinkumaru777",
+      "text": "Hello from the end-to-end check",
+      "at": "2026-11-14T16:09:02.000Z"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=ff5312b0"><img src="assets/hero-light.svg?v=ff1c0bfb" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=43171b40"><img src="assets/hero-light.svg?v=4e843555" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -11,7 +11,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=4b2bce6c"><img src="assets/byte-light.svg?v=8ad04f9b" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 81, energy 83, hunger 33. 1 pets all-time."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=5f64c3c5"><img src="assets/byte-light.svg?v=e5c7a56b" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 85, energy 83, hunger 33. 1 pets all-time."></picture>
 
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cpet&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-pet-dark.svg?v=3fc88b8a"><img src="assets/btn-pet-light.svg?v=3ed12de6" width="150" alt="Pet Byte"></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Ccookie&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-feed-dark.svg?v=9aa4e97d"><img src="assets/btn-feed-light.svg?v=e8601aa9" width="150" alt="Feed Byte"></picture></a>
@@ -54,7 +54,7 @@ Drawn by this repo's own workflow from the GitHub API. No third-party stat servi
 
 ## Byte's friends
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=2f721bf0"><img src="assets/friends-light.svg?v=ffc47b26" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (6)."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=a0036c62"><img src="assets/friends-light.svg?v=874eaaf3" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (7)."></picture>
 
 ## Play tic-tac-toe against Byte
 
@@ -80,7 +80,7 @@ You are X. Press an empty square, then press **Create**. Byte plays O and replie
 
 ## Guestbook
 
-<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Csay%7CHi%20Byte!&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/guestbook-dark.svg?v=75b09bcd"><img src="assets/guestbook-light.svg?v=018c48f5" width="100%" alt="Guestbook: no messages yet. Use Say hi to leave one."></picture></a>
+<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Csay%7CHi%20Byte!&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/guestbook-dark.svg?v=3b10fce2"><img src="assets/guestbook-light.svg?v=88cb520f" width="100%" alt="Guestbook. Nithinkumaru777 says: Hello from the end-to-end check"></picture></a>
 
 <div align="center">
 
