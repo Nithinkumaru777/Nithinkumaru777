@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=bbd00274"><img src="assets/hero-light.svg?v=8872da8d" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=f71021c0"><img src="assets/hero-light.svg?v=e8ecdbc4" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -11,7 +11,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=d8681d9f"><img src="assets/byte-light.svg?v=0bb56fa3" width="600" alt="Byte is party time. Level 1. Happiness 70, energy 100, hunger 26. 1 pets all-time."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=26a73564"><img src="assets/byte-light.svg?v=11d2a4a7" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 76, energy 88, hunger 32. 1 pets all-time."></picture>
 
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cpet&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-pet-dark.svg?v=3fc88b8a"><img src="assets/btn-pet-light.svg?v=3ed12de6" width="150" alt="Pet Byte"></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Ccookie&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-feed-dark.svg?v=9aa4e97d"><img src="assets/btn-feed-light.svg?v=e8601aa9" width="150" alt="Feed Byte"></picture></a>
@@ -54,7 +54,7 @@ Drawn by this repo's own workflow from the GitHub API. No third-party stat servi
 
 ## Byte's friends
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=f74fba89"><img src="assets/friends-light.svg?v=e6f474c4" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (2)."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=dd12f3f4"><img src="assets/friends-light.svg?v=7d8119d2" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (3)."></picture>
 
 ## Play tic-tac-toe against Byte
 

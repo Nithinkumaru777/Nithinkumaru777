@@ -1,12 +1,12 @@
 {
   "name": "Byte",
-  "happiness": 70,
-  "energy": 100,
-  "hunger": 26,
-  "xp": 9,
-  "level": 1,
-  "mood": "celebrating",
-  "moodUntil": "2026-11-15T10:25:55.243Z",
+  "happiness": 76,
+  "energy": 88,
+  "hunger": 32,
+  "xp": 19,
+  "level": 2,
+  "mood": "excited",
+  "moodUntil": "2026-11-14T18:54:51.992Z",
   "pets": {
     "today": 1,
     "total": 1,
@@ -21,15 +21,15 @@
   "milestone": 1,
   "users": {
     "Nithinkumaru777": {
-      "last": "2026-11-14T15:53:42.046Z",
+      "last": "2026-11-14T15:54:51.992Z",
       "day": "2026-11-14",
-      "today": 2,
-      "total": 2
+      "today": 3,
+      "total": 3
     }
   },
   "daily": {
     "day": "2026-11-14",
-    "count": 2
+    "count": 3
   },
   "guestbook": []
 }
