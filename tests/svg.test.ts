@@ -1,9 +1,6 @@
 import assert from 'node:assert/strict';
-import { execFileSync } from 'node:child_process';
-import { mkdtempSync, writeFileSync } from 'node:fs';
-import { tmpdir } from 'node:os';
-import { join } from 'node:path';
 import { test } from 'node:test';
+import sharp from 'sharp';
 import { build } from '../scripts/generate.ts';
 import { demoStats, demoWorld } from '../scripts/demo.ts';
 import { emptyStats } from '../scripts/lib/github.ts';
@@ -16,12 +13,11 @@ const worlds = { empty: () => build(fresh(new Date(META.updatedAt)), emptyStats(
 // Byte's card in every mood at every evolution stage, so no combination slips through.
 const moodWorlds = MOODS.flatMap((mood) => [1, 5, 10, 20].map((level) => { const w = demoWorld(); w.byte.mood = mood; w.byte.level = level; w.byte.accessories.wearing = ['hat', 'shades', 'bow', null][level % 4]; return build(w, demoStats(), META, {}); }));
 
-for (const [name, make] of Object.entries(worlds)) test(`every SVG is valid, small and self-contained (${name} world)`, () => {
-  const files = make(), dir = mkdtempSync(join(tmpdir(), 'byte-svg-')), svgs = [...files].filter(([p]) => p.endsWith('.svg'));
+for (const [name, make] of Object.entries(worlds)) test(`every SVG is valid, small and self-contained (${name} world)`, async () => {
+  const files = make(), svgs = [...files].filter(([p]) => p.endsWith('.svg'));
   assert.ok(svgs.length >= 80, `expected 80+ SVGs, got ${svgs.length}`);
   for (const [path, svg] of svgs) {
-    const f = join(dir, path.replace(/\//g, '_')); writeFileSync(f, svg);
-    execFileSync('xmllint', ['--noout', f]);                                          // throws on malformed XML
+    await sharp(Buffer.from(svg)).metadata().catch((e) => assert.fail(`${path} is not valid XML: ${e.message}`)); // libxml2 via librsvg, no system xmllint needed
     assert.ok(Buffer.byteLength(svg) < 500 * 1024, `${path} is ${Buffer.byteLength(svg)} bytes`);
     assert.doesNotMatch(svg, /<script|on(load|click|begin)=|javascript:/i, `${path} has script`);
     assert.doesNotMatch(svg, /(href|src)="(?!data:|#)/, `${path} references an external file`);
