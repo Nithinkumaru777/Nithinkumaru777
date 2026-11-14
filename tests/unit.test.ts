@@ -150,3 +150,16 @@ test('streak maths', () => {
   assert.deepEqual(streakOf(d(1, 1, 1, 1, 0)), { current: 4, longest: 4, alive: true }, 'today may still be empty');
   assert.deepEqual(streakOf(d(1, 1, 0, 0)), { current: 0, longest: 2, alive: false });
 });
+
+test('cooldown counts from when the visitor opened the issue, not from when CI got to it', async () => {
+  const { processIssues } = await import('../scripts/interact.ts');
+  const run = async (gapMs: number) => {
+    const w = fresh(NOON), at = (ms: number) => later(ms).toISOString();
+    const issues = [{ number: 1, title: 'byte|pet', user: 'asha', createdAt: at(0) }, { number: 2, title: 'byte|dance', user: 'asha', createdAt: at(gapMs) }];
+    const io = { load: () => w, commit: async () => {}, push: async () => {}, reactionUrl: () => 'x' };
+    const api = { open: async () => issues, comment: async () => {}, close: async () => {} };
+    return processIssues(api, io, () => later(gapMs + 5 * 60_000));          // both handled in one run, minutes later
+  };
+  assert.ok((await run(61_000)).every((r) => r.outcome?.ok), 'issues opened 61 s apart are both accepted');
+  assert.equal((await run(20_000))[1].outcome?.ok, false, 'issues opened 20 s apart still hit the cooldown');
+});

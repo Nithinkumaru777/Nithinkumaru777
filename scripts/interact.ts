@@ -10,7 +10,7 @@ import { reactionFor, replyFor } from './lib/replies.ts';
 import { apply, type Outcome, type World } from './lib/state.ts';
 import { load, save } from './lib/store.ts';
 
-export interface Issue { number: number; title: string; user: string }
+export interface Issue { number: number; title: string; user: string; createdAt?: string }
 /** The three GitHub calls the handler needs. Tests and the dry run pass a fake. */
 export interface Api { open(): Promise<Issue[]>; comment(n: number, body: string): Promise<void>; close(n: number): Promise<void> }
 /** Everything that touches the disk or git. */
@@ -29,11 +29,12 @@ export async function processIssues(api: Api, io: Io, now: () => Date = () => ne
   const issues = (await api.open()).filter((i) => /^\s*byte\s*\|/i.test(i.title)).sort((a, b) => a.number - b.number).slice(0, MAX_PER_RUN);
   const w = io.load(), results: Result[] = [];
   for (const issue of issues) {
-    const action = parseTitle(issue.title), at = now();
+    // The visitor acted when they opened the issue. Using the processing time made cooldowns depend on Actions queue delays.
+    const action = parseTitle(issue.title), handled = now(), at = issue.createdAt ? new Date(Math.min(Date.parse(issue.createdAt), handled.getTime())) : handled;
     if (!action) { results.push({ issue, action, outcome: null, message: null, comment: body(io, 'oops', replyFor({ ok: false, reason: 'unknown' as never }, issue.user, random), w) }); continue; }
     const outcome = apply(w, action, issue.user, at, random);
     let message: string | null = null;
-    if (outcome.ok) { message = commitMessage(action, issue.user); await io.commit(w, message, at); }
+    if (outcome.ok) { message = commitMessage(action, issue.user); await io.commit(w, message, handled); }
     results.push({ issue, action, outcome, message, comment: body(io, reactionFor(outcome), replyFor(outcome, issue.user, random), w) });
   }
   if (results.some((r) => r.message)) await io.push();          // images in the replies must exist on main first
@@ -76,7 +77,7 @@ export function realApi(token: string, repo = `${config.user}/${config.repo}`): 
     return res.json() as Promise<any>;
   };
   return {
-    open: async () => ((await call('/issues?state=open&per_page=100&sort=created&direction=asc')) as any[]).filter((i) => !i.pull_request).map((i) => ({ number: i.number, title: i.title, user: i.user.login })),
+    open: async () => ((await call('/issues?state=open&per_page=100&sort=created&direction=asc')) as any[]).filter((i) => !i.pull_request).map((i) => ({ number: i.number, title: i.title, user: i.user.login, createdAt: i.created_at })),
     comment: async (n, text) => { await call(`/issues/${n}/comments`, { method: 'POST', body: JSON.stringify({ body: text }) }); },
     close: async (n) => { await call(`/issues/${n}`, { method: 'PATCH', body: JSON.stringify({ state: 'closed', state_reason: 'completed' }) }); },
   };
