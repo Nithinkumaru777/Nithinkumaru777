@@ -75,7 +75,6 @@ sound.addEventListener('click', () => { setSound(!soundOn()); paint(); }); paint
 // ── the one orchestrated entrance: the name rises, then the role line starts turning ──
 const roles = ['websites', 'dashboards', 'AI tools', 'apps'], rot = $('.rot');
 if (!reduced()) {
-  gsap.from('.intro > *', { y: 28, opacity: 0, duration: 0.8, stagger: 0.08, ease: 'expo.out' });
   let i = 0;
   setInterval(() => {
     i = (i + 1) % roles.length;
