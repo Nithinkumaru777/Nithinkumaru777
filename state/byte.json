@@ -1,12 +1,12 @@
 {
   "name": "Byte",
-  "happiness": 70,
-  "energy": 80,
-  "hunger": 30,
+  "happiness": 59,
+  "energy": 100,
+  "hunger": 51,
   "xp": 0,
   "level": 1,
-  "mood": "idle",
-  "moodUntil": null,
+  "mood": "celebrating",
+  "moodUntil": "2026-11-15T10:25:55.243Z",
   "pets": {
     "today": 0,
     "total": 0,
@@ -16,9 +16,9 @@
     "owned": [],
     "wearing": null
   },
-  "lastDecay": "2026-11-14T03:16:37.738Z",
-  "lastPush": null,
-  "milestone": 0,
+  "lastDecay": "2026-11-14T10:25:55.243Z",
+  "lastPush": "2026-11-14T05:47:10Z",
+  "milestone": 1,
   "users": {},
   "daily": {
     "day": "2026-11-14",

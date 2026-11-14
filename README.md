@@ -11,7 +11,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=a8ded625"><img src="assets/byte-light.svg?v=5a50a5be" width="600" alt="Byte is hanging out. Level 1. Happiness 70, energy 80, hunger 30. 0 pets all-time."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=a81fc200"><img src="assets/byte-light.svg?v=6e0a1587" width="600" alt="Byte is party time. Level 1. Happiness 59, energy 100, hunger 51. 0 pets all-time."></picture>
 
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cpet&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-pet-dark.svg?v=3fc88b8a"><img src="assets/btn-pet-light.svg?v=3ed12de6" width="150" alt="Pet Byte"></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Ccookie&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-feed-dark.svg?v=9aa4e97d"><img src="assets/btn-feed-light.svg?v=e8601aa9" width="150" alt="Feed Byte"></picture></a>
@@ -38,19 +38,19 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 <a href="https://github.com/Nithinkumaru777/meeting-action-log"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-meeting-action-log-dark.svg?v=9d89e346"><img src="assets/project-meeting-action-log-light.svg?v=d8e869f4" width="49%" alt="Meeting Action Log: Decisions and action items from every meeting. 0 stars."></picture></a>
 
 <a href="https://github.com/Nithinkumaru777/NexusOptimize"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nexusoptimize-dark.svg?v=fe27d59a"><img src="assets/project-nexusoptimize-light.svg?v=702b9666" width="49%" alt="Nexus Optimize &amp; Mod: Game optimiser and mod manager for Windows. 0 stars."></picture></a>
-<a href="https://github.com/Nithinkumaru777/gitpulse-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gitpulse-desktop-dark.svg?v=3949fa86"><img src="assets/project-gitpulse-desktop-light.svg?v=1675d10a" width="49%" alt="GitPulse Desktop: GitHub activity at a glance, on the desktop. 0 stars."></picture></a>
+<a href="https://github.com/Nithinkumaru777/gitpulse-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gitpulse-desktop-dark.svg?v=37947ef9"><img src="assets/project-gitpulse-desktop-light.svg?v=e90c13e0" width="49%" alt="GitPulse Desktop: GitHub activity at a glance, on the desktop. 1 stars."></picture></a>
 
 ## Numbers
 
 Drawn by this repo's own workflow from the GitHub API. No third-party stat services.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=111e09f0"><img src="assets/stats-light.svg?v=c7e24231" width="49%" alt="GitHub stats for Nithin Kumar U: 0 stars, 0 commits this year, 0 pull requests, 0 issues, 0 repos, 0 followers."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=73d5a0c2"><img src="assets/languages-light.svg?v=766032b7" width="49%" alt="Most used languages: TypeScript 40%, Python 30%, HTML 18%, CSS 12%."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=504ca906"><img src="assets/stats-light.svg?v=f6662a2e" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6747 commits this year, 1521 pull requests, 1598 issues, 12 repos, 1 followers."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=94cf1de8"><img src="assets/languages-light.svg?v=5e6693b7" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=75888d9d"><img src="assets/streak-light.svg?v=e5f975c3" width="49%" alt="Contribution streak: 0 days. Longest: 0 days."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=883bc5f2"><img src="assets/week-light.svg?v=4d47dee3" width="49%" alt="Contributions in the last seven days: 0, 0, 0, 0, 0, 0, 0."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=555b2d27"><img src="assets/streak-light.svg?v=f274cf8f" width="49%" alt="Contribution streak: 5 days. Longest: 36 days."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=5bd2f3ed"><img src="assets/week-light.svg?v=a27e5f2d" width="49%" alt="Contributions in the last seven days: 0, 0, 1, 2, 51, 22, 8."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=164b42b3"><img src="assets/snake-light.svg?v=c6e3f17c" width="100%" alt="Contribution snake, with Byte chasing it."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=8c94ae53"><img src="assets/snake-light.svg?v=0bdecc87" width="100%" alt="A year of contributions as a grid. A snake eats the squares and Byte runs after it."></picture>
 
 ## Byte's friends
 
