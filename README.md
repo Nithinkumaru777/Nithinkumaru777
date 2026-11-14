@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=694957b5"><img src="assets/hero-light.svg?v=4523ab16" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=6d2c069f"><img src="assets/hero-light.svg?v=151105d1" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -11,7 +11,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=03a2ed0a"><img src="assets/byte-light.svg?v=e45cdfaa" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 81, energy 82, hunger 32. 1 pets all-time."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=17e9feb7"><img src="assets/byte-light.svg?v=f4330c87" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 81, energy 82, hunger 32. 1 pets all-time."></picture>
 
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cpet&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-pet-dark.svg?v=3fc88b8a"><img src="assets/btn-pet-light.svg?v=3ed12de6" width="150" alt="Pet Byte"></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cfeed%7Ccookie&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-feed-dark.svg?v=9aa4e97d"><img src="assets/btn-feed-light.svg?v=e8601aa9" width="150" alt="Feed Byte"></picture></a>
@@ -54,7 +54,7 @@ Drawn by this repo's own workflow from the GitHub API. No third-party stat servi
 
 ## Byte's friends
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=dd7cccbf"><img src="assets/friends-light.svg?v=a835eac4" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (5)."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/friends-dark.svg?v=2f721bf0"><img src="assets/friends-light.svg?v=ffc47b26" width="100%" alt="Byte's friends. Latest visitors: Nithinkumaru777. Top friends: Nithinkumaru777 (6)."></picture>
 
 ## Play tic-tac-toe against Byte
 
@@ -62,14 +62,14 @@ You are X. Press an empty square, then press **Create**. Byte plays O and replie
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-status-dark.svg?v=df2ba6ce"><img src="assets/ttt-status-light.svg?v=c77bcbd1" width="420" alt="Tic-tac-toe with Byte. New game. You are X. Score: friends 0, Byte 0, draws 0."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-status-dark.svg?v=b2f7637c"><img src="assets/ttt-status-light.svg?v=8158a581" width="420" alt="Tic-tac-toe with Byte. Your move. You are X. Score: friends 0, Byte 0, draws 0."></picture>
 <br>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C0&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-0-dark.svg?v=a162b0de"><img src="assets/ttt-0-light.svg?v=33487362" width="104" alt="Square 1: empty. Open an issue to play X here."></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C1&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-1-dark.svg?v=caed526e"><img src="assets/ttt-1-light.svg?v=f8a39a2c" width="104" alt="Square 2: empty. Open an issue to play X here."></picture></a>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C2&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-2-dark.svg?v=e64b5f5b"><img src="assets/ttt-2-light.svg?v=b49d9616" width="104" alt="Square 3: empty. Open an issue to play X here."></picture></a>
 <br>
-<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C3&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-3-dark.svg?v=5ddf52cf"><img src="assets/ttt-3-light.svg?v=b777bca8" width="104" alt="Square 4: empty. Open an issue to play X here."></picture></a>
-<a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C4&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-4-dark.svg?v=3d358a77"><img src="assets/ttt-4-light.svg?v=fd870f4b" width="104" alt="Square 5: empty. Open an issue to play X here."></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-3-dark.svg?v=7b40e403"><img src="assets/ttt-3-light.svg?v=f44a9eca" width="104" alt="Square 4: O (Byte)"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-4-dark.svg?v=708c1ac4"><img src="assets/ttt-4-light.svg?v=2f1fde2b" width="104" alt="Square 5: X (visitors)"></picture>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C5&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-5-dark.svg?v=5e783a77"><img src="assets/ttt-5-light.svg?v=beb88025" width="104" alt="Square 6: empty. Open an issue to play X here."></picture></a>
 <br>
 <a href="https://github.com/Nithinkumaru777/Nithinkumaru777/issues/new?title=byte%7Cttt%7C6&body=Just%20press%20%22Create%22%20(or%20%22Submit%20new%20issue%22).%20Byte%20replies%20in%20a%20few%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ttt-6-dark.svg?v=224bd1b3"><img src="assets/ttt-6-light.svg?v=f6e77bf5" width="104" alt="Square 7: empty. Open an issue to play X here."></picture></a>
