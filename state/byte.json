@@ -1,11 +1,11 @@
 {
   "name": "Byte",
-  "happiness": 64,
+  "happiness": 50,
   "energy": 100,
-  "hunger": 76,
+  "hunger": 100,
   "xp": 39,
   "level": 2,
-  "mood": "coding",
+  "mood": "excited",
   "moodUntil": "2026-11-14T18:56:12.506Z",
   "pets": {
     "today": 1,
@@ -18,8 +18,8 @@
     ],
     "wearing": "hat"
   },
-  "lastDecay": "2026-11-15T06:21:14.837Z",
-  "lastPush": "2026-11-15T06:18:34Z",
+  "lastDecay": "2026-11-15T16:19:06.179Z",
+  "lastPush": "2026-11-15T16:05:12Z",
   "milestone": 1,
   "users": {
     "Nithinkumaru777": {
