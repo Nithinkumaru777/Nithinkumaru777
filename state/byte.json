@@ -5,7 +5,7 @@
   "hunger": 100,
   "xp": 39,
   "level": 2,
-  "mood": "excited",
+  "mood": "sleeping",
   "moodUntil": "2026-11-14T18:56:12.506Z",
   "pets": {
     "today": 1,
@@ -18,8 +18,8 @@
     ],
     "wearing": "hat"
   },
-  "lastDecay": "2026-11-20T11:28:06.563Z",
-  "lastPush": "2026-11-20T11:21:07Z",
+  "lastDecay": "2026-11-20T20:07:27.418Z",
+  "lastPush": "2026-11-20T13:01:50Z",
   "milestone": 1,
   "users": {
     "Nithinkumaru777": {
