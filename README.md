@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=037b6f71"><img src="assets/hero-light.svg?v=02d3709b" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=ee1335e8"><img src="assets/hero-light.svg?v=c9df6e3f" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -11,7 +11,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=e0aa2add"><img src="assets/byte-light.svg?v=64637008" width="600" alt="Byte is coding with Nithin. Level 2. Happiness 50, energy 100, hunger 100. 1 pets all-time."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=4ef8c233"><img src="assets/byte-light.svg?v=071bfbe0" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 50, energy 100, hunger 100. 1 pets all-time."></picture></a>
 
 <sub>GitHub pages can't run code, so these buttons work through issues: press one, then press <b>Create</b>. To drag, pet and feed Byte right now, <a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><b>play with him live</b></a>.</sub>
 
@@ -46,11 +46,11 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 Drawn by this repo's own workflow from the GitHub API. No third-party stat services.
 
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=862fc4c5"><img src="assets/stats-light.svg?v=fef1baf9" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6845 commits this year, 1521 pull requests, 1613 issues, 12 repos, 2 followers."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=81db45b0"><img src="assets/stats-light.svg?v=ff3c8519" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6900 commits this year, 1521 pull requests, 1613 issues, 12 repos, 2 followers."></picture></a>
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=a195ef58"><img src="assets/languages-light.svg?v=f8a7ddaf" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture></a>
 
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=257d1553"><img src="assets/streak-light.svg?v=8e64f24d" width="49%" alt="Contribution streak: 2 days. Longest: 36 days."></picture></a>
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=93cf3750"><img src="assets/week-light.svg?v=410b09c6" width="49%" alt="Contributions in the last seven days: 45, 37, 0, 0, 0, 38, 1."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=b58533cf"><img src="assets/week-light.svg?v=77e4529c" width="49%" alt="Contributions in the last seven days: 45, 37, 0, 0, 0, 38, 56."></picture></a>
 
 <a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=d7821820"><img src="assets/snake-light.svg?v=412d4a48" width="100%" alt="Contribution snake, with Byte chasing it."></picture></a>
 
