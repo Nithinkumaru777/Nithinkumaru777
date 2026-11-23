@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=da99a25e"><img src="assets/hero-light.svg?v=f6acb55e" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=e8194eb8"><img src="assets/hero-light.svg?v=70196afa" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -11,7 +11,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=342d353f"><img src="assets/byte-light.svg?v=e81af439" width="600" alt="Byte is tummy is rumbling. Level 2. Happiness 50, energy 100, hunger 100. 1 pets all-time."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/byte-dark.svg?v=4ef8c233"><img src="assets/byte-light.svg?v=071bfbe0" width="600" alt="Byte is bouncing off the walls. Level 2. Happiness 50, energy 100, hunger 100. 1 pets all-time."></picture></a>
 
 <sub>GitHub pages can't run code, so these buttons work through issues: press one, then press <b>Create</b>. To drag, pet and feed Byte right now, <a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><b>play with him live</b></a>.</sub>
 
@@ -46,11 +46,11 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 Drawn by this repo's own workflow from the GitHub API. No third-party stat services.
 
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=42191935"><img src="assets/stats-light.svg?v=fd9ab58c" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 6977 commits this year, 1521 pull requests, 1613 issues, 12 repos, 2 followers."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=0dd1def6"><img src="assets/stats-light.svg?v=1d685b10" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 7004 commits this year, 1521 pull requests, 1613 issues, 12 repos, 2 followers."></picture></a>
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=a195ef58"><img src="assets/languages-light.svg?v=f8a7ddaf" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture></a>
 
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=d2f1b884"><img src="assets/streak-light.svg?v=cd168ee6" width="49%" alt="Contribution streak: 0 days. Longest: 36 days."></picture></a>
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=2073e458"><img src="assets/week-light.svg?v=07128a27" width="49%" alt="Contributions in the last seven days: 0, 0, 38, 66, 67, 0, 0."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=c3a5d15b"><img src="assets/streak-light.svg?v=aaf382da" width="49%" alt="Contribution streak: 1 days. Longest: 36 days."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=ad0830eb"><img src="assets/week-light.svg?v=06595420" width="49%" alt="Contributions in the last seven days: 0, 0, 38, 66, 67, 0, 27."></picture></a>
 
 <a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=b294aaee"><img src="assets/snake-light.svg?v=c3af7910" width="100%" alt="Contribution snake, with Byte chasing it."></picture></a>
 
