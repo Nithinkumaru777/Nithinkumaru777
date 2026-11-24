@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=5f62d61f"><img src="assets/hero-light.svg?v=2d4def1a" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=cb422c5f"><img src="assets/hero-light.svg?v=86137c3a" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -52,7 +52,7 @@ Drawn by this repo's own workflow from the GitHub API. No third-party stat servi
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=c3a5d15b"><img src="assets/streak-light.svg?v=aaf382da" width="49%" alt="Contribution streak: 1 days. Longest: 36 days."></picture></a>
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=a8120075"><img src="assets/week-light.svg?v=db6134ab" width="49%" alt="Contributions in the last seven days: 0, 38, 66, 67, 0, 39, 0."></picture></a>
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=b294aaee"><img src="assets/snake-light.svg?v=c3af7910" width="100%" alt="Contribution snake, with Byte chasing it."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=6b49adfd"><img src="assets/snake-light.svg?v=050285ab" width="100%" alt="Contribution snake, with Byte chasing it."></picture></a>
 
 ## Byte's friends
 
