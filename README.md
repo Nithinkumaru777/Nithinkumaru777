@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=cb422c5f"><img src="assets/hero-light.svg?v=86137c3a" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=4192f723"><img src="assets/hero-light.svg?v=5ea8368c" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -46,11 +46,11 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 Drawn by this repo's own workflow from the GitHub API. No third-party stat services.
 
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=2b9298df"><img src="assets/stats-light.svg?v=0806e63a" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 7016 commits this year, 1521 pull requests, 1613 issues, 12 repos, 2 followers."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=3cfabf1e"><img src="assets/stats-light.svg?v=8c839b10" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 7020 commits this year, 1521 pull requests, 1613 issues, 12 repos, 2 followers."></picture></a>
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=a195ef58"><img src="assets/languages-light.svg?v=f8a7ddaf" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture></a>
 
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=c3a5d15b"><img src="assets/streak-light.svg?v=aaf382da" width="49%" alt="Contribution streak: 1 days. Longest: 36 days."></picture></a>
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=a8120075"><img src="assets/week-light.svg?v=db6134ab" width="49%" alt="Contributions in the last seven days: 0, 38, 66, 67, 0, 39, 0."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=257d1553"><img src="assets/streak-light.svg?v=8e64f24d" width="49%" alt="Contribution streak: 2 days. Longest: 36 days."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=8dd9f4e2"><img src="assets/week-light.svg?v=d8627a28" width="49%" alt="Contributions in the last seven days: 0, 38, 66, 67, 0, 39, 4."></picture></a>
 
 <a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=6b49adfd"><img src="assets/snake-light.svg?v=050285ab" width="100%" alt="Contribution snake, with Byte chasing it."></picture></a>
 
