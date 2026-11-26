@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=512126da"><img src="assets/hero-light.svg?v=8b6c81e4" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=757d44d9"><img src="assets/hero-light.svg?v=e7d7f9cb" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -46,7 +46,7 @@ Byte is my robot buddy. It lives in this README, gets hungry, falls asleep at 11
 
 Drawn by this repo's own workflow from the GitHub API. No third-party stat services.
 
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=3cfabf1e"><img src="assets/stats-light.svg?v=8c839b10" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 7020 commits this year, 1521 pull requests, 1613 issues, 12 repos, 2 followers."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=085ef64b"><img src="assets/stats-light.svg?v=d0a97e31" width="49%" alt="GitHub stats for Nithin Kumar U: 2 stars, 7020 commits this year, 1521 pull requests, 1613 issues, 12 repos, 3 followers."></picture></a>
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=a195ef58"><img src="assets/languages-light.svg?v=f8a7ddaf" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture></a>
 
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=d2f1b884"><img src="assets/streak-light.svg?v=cd168ee6" width="49%" alt="Contribution streak: 0 days. Longest: 36 days."></picture></a>
