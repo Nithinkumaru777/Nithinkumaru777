@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit templates/README.tpl.md and scripts/config.ts, then run `npm run generate`. -->
 <div align="center">
 
-<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=757d44d9"><img src="assets/hero-light.svg?v=e7d7f9cb" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
+<a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=e5ae74be"><img src="assets/hero-light.svg?v=8f896438" width="100%" alt="Nithin Kumar U. I build websites, dashboards, AI tools and apps for real businesses. Byte the robot waves hello."></picture></a>
 
 </div>
 
@@ -50,7 +50,7 @@ Drawn by this repo's own workflow from the GitHub API. No third-party stat servi
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=a195ef58"><img src="assets/languages-light.svg?v=f8a7ddaf" width="49%" alt="Most used languages: Python 38%, Java 29%, TypeScript 23%, HTML 7%, CSS 3%."></picture></a>
 
 <a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=d2f1b884"><img src="assets/streak-light.svg?v=cd168ee6" width="49%" alt="Contribution streak: 0 days. Longest: 36 days."></picture></a>
-<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=64ccab1e"><img src="assets/week-light.svg?v=b70e8561" width="49%" alt="Contributions in the last seven days: 66, 67, 0, 39, 4, 0, 0."></picture></a>
+<a href="https://github.com/Nithinkumaru777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg?v=9c9f514c"><img src="assets/week-light.svg?v=9f81a44f" width="49%" alt="Contributions in the last seven days: 67, 0, 39, 4, 0, 0, 0."></picture></a>
 
 <a href="https://nithinkumaru777.github.io/Nithinkumaru777/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg?v=72019279"><img src="assets/snake-light.svg?v=9491715b" width="100%" alt="Contribution snake, with Byte chasing it."></picture></a>
 
